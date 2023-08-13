@@ -4,41 +4,50 @@ Greetings, cosmic explorers! 🌠 I am [Your Name], an *Astroarchitect of the Di
 
 ## 🌌 Unveiling My Celestial Toolkit
 
-```typescript
-class CosmicToolkit {
-  private cosmicModules: string[];
-  private constellationLibraries: string[];
+class AboutMe {
+  private name: string;
+  private role: string;
+  private passions: string[];
+  private skills: string[];
+  private contacts: Record<string, string>;
+  private bio: string;
 
-  constructor() {
-    this.cosmicModules = [
-      "JavaScript",
-      "React",
-      "Gatsby",
-      "Next.js",
-      "Node.js",
-      "GraphQL",
-      "Netlify",
-      "Contentful",
-      "Tailwind CSS",
-      "MongoDB",
-    ];
-
-    this.constellationLibraries = [
-      "Web Performance Enchantments",
-      "UI/UX Constellations",
-      "Open Source Elixirs",
-      "Creative Code Incantations",
-    ];
+  constructor(
+    name: string,
+    role: string,
+    passions: string[],
+    skills: string[],
+    contacts: Record<string, string>,
+    bio: string
+  ) {
+    this.name = name;
+    this.role = role;
+    this.passions = passions;
+    this.skills = skills;
+    this.contacts = contacts;
+    this.bio = bio;
   }
 
-  get cosmicSkills(): string[] {
-    return [...this.cosmicModules, ...this.constellationLibraries];
+  introduceSelf(): string {
+    return `Greetings, fellow tech traveler! 🌌 I'm ${this.name}, a ${this.role} on a mission to fuse creativity and code. My passions span ${this.passions.join(', ')} and I wield skills in ${this.skills.join(', ')}. With a cosmic perspective, I craft digital realms where imagination meets innovation. Let's explore the tech universe together! 🚀\n\n${this.bio}\n\nConnect with me on ${this.contacts['twitter']} or ${this.contacts['linkedin']} and uncover more dimensions of this digital odyssey!`;
   }
 }
 
-const myCosmicToolkit = new CosmicToolkit();
-const cosmicSkills = myCosmicToolkit.cosmicSkills;
-```
+const myAboutMe = new AboutMe(
+  'Your Name',
+  'Jamstack Sorcerer',
+  ['Web Performance Optimization', 'UI/UX Design', 'Open Source Contribution'],
+  ['JavaScript', 'React', 'Gatsby', 'GraphQL', 'Node.js'],
+  {
+    twitter: 'https://twitter.com/yourtwitterhandle',
+    linkedin: 'https://www.linkedin.com/in/yourlinkedinprofile',
+    portfolio: 'https://yourportfolio.com',
+  },
+  `With a wand made of code and stardust, I conjure captivating web experiences that leave users spellbound. My journey began by studying the ancient scrolls of JavaScript, and since then, I've traversed the enchanted lands of React, Gatsby, and the Jamstack. By day, I weave user interfaces that merge aesthetics and functionality, and by night, I contribute to the ever-expanding realm of open source. Join me on this odyssey, and together, we'll create digital wonders that defy the limits of imagination.`
+);
+
+console.log(myAboutMe.introduceSelf());
+
 
 🌈 What I'm Currently Creating
 🚀 Crafting lightning-fast websites that leave users in awe.
