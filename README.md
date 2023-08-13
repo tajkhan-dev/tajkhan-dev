@@ -1,89 +1,33 @@
-# 🌌 Welcome to My Interstellar Coding Odyssey! 🚀
+<h1 align="center">Hi 👋, I'm Muhammad Taj ul islam Khan</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png"> </div>
+<h3 align="center">A passionate JAM stack developer from Pakistan</h3>
 
-Greetings, cosmic explorers! 🌠 I am [Your Name], an *Astroarchitect of the Digital Cosmos*, fusing code with stardust to manifest celestial web experiences. Prepare for an epic odyssey through galaxies of innovation, art, and unbounded awesomeness! 🌌✨
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tajkhan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tajkhan-dev" /> </p>
 
-## 🌌 Unveiling My Celestial Toolkit
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajkhan-dev" alt="tajkhan-dev" /></a> </p>
 
-``` Object.me
-class AboutMe {
-  private name: string;
-  private role: string;
-  private passions: string[];
-  private skills: string[];
-  private contacts: Record<string, string>;
-  private bio: string;
+- 🌱 I’m currently learning **web 3.0 , metaverse**
 
-  constructor(
-    name: string,
-    role: string,
-    passions: string[],
-    skills: string[],
-    contacts: Record<string, string>,
-    bio: string
-  ) {
-    this.name = name;
-    this.role = role;
-    this.passions = passions;
-    this.skills = skills;
-    this.contacts = contacts;
-    this.bio = bio;
-  }
+- 👨‍💻 Portfolio [https://tajkhan.vercel.app](https://tajkhan.vercel.app)
 
-  introduceSelf(): string {
-    return `Greetings, fellow tech traveler! 🌌 I'm ${this.name}, a ${this.role} on a mission to fuse creativity and code. My passions span ${this.passions.join(', ')} and I wield skills in ${this.skills.join(', ')}. With a cosmic perspective, I craft digital realms where imagination meets innovation. Let's explore the tech universe together! 🚀\n\n${this.bio}\n\nConnect with me on ${this.contacts['twitter']} or ${this.contacts['linkedin']} and uncover more dimensions of this digital odyssey!`;
-  }
-}
+- 📝 I regularly write articles on [Web 3 metaverse AI](Web 3 metaverse AI)
 
-const myAboutMe = new AboutMe(
-  'Your Name',
-  'Jamstack Sorcerer',
-  ['Web Performance Optimization', 'UI/UX Design', 'Open Source Contribution'],
-  ['JavaScript', 'React', 'Gatsby', 'GraphQL', 'Node.js'],
-  {
-    twitter: 'https://twitter.com/yourtwitterhandle',
-    linkedin: 'https://www.linkedin.com/in/yourlinkedinprofile',
-    portfolio: 'https://yourportfolio.com',
-  },
-  `With a wand made of code and stardust, I conjure captivating web experiences that leave users spellbound. My journey began by studying the ancient scrolls of JavaScript, and since then, I've traversed the enchanted lands of React, Gatsby, and the Jamstack. By day, I weave user interfaces that merge aesthetics and functionality, and by night, I contribute to the ever-expanding realm of open source. Join me on this odyssey, and together, we'll create digital wonders that defy the limits of imagination.`
-);
+- 💬 Ask me about **JAM stack,Next.js,serverless architecture**
 
-console.log(myAboutMe.introduceSelf());
- ```
+- 📫 How to reach me **tajkhan.dev@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad taj ul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad taj ul islam" height="30" width="40" /></a>
+<a href="https://fb.com/muhammad taj ul islam khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad taj ul islam khan" height="30" width="40" /></a>
+<a href="https://instagram.com/tajkhan_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tajkhan_dev" height="30" width="40" /></a>
+</p>
 
-🌈 What I'm Currently Creating
-🚀 Crafting lightning-fast websites that leave users in awe.
-🎨 Designing pixel-perfect UIs that blend aesthetics with functionality.
-📚 Exploring the realms of GraphQL for efficient data handling.
-⚡️ Optimizing web performance for that sweet Lighthouse score.
-🌍 Building serverless web applications with the power of Jamstack.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-## ✨ Constellations in My Developer Galaxy
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tajkhan-dev&show_icons=true&locale=en&layout=compact" alt="tajkhan-dev" /></p>
 
-- 🌟 Forged an open-source artifact that amplifies **Jamstack** wizardry.
-- 💫 Enchanted a cosmic tech congregation, prophesying the **serverless epoch**.
-- 🪐 Penned a star-igniting chronicle on **web performance alchemy**.
-- 🌌 Command a repository constellation adorned with **over 10K stars**.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tajkhan-dev&show_icons=true&locale=en" alt="tajkhan-dev" /></p>
 
-## 🌙 Forging Future Cosmic Realms
-
-- 🌟 Unraveling the cosmic weave of **Serverless Sorcery** for next-gen marvels.
-- 🌌 Pioneering the dawning era of **AI-infused universes** within the web.
-- 🌠 Embarking on an odyssey through **WebGL realms**, sculpting interactive wonders.
-- 🌌 Forging a legacy of cosmic **Open Source relics** for all sentient beings.
-
-## 🌠 Join Me on This Cosmic Quest!
-
-Ready to embark on this grand cosmic odyssey? Let's traverse constellations, bending the universe to our code with coffee-fueled resolve and boundless innovation! ☕️🚀🌌
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-536DFE?style=for-the-badge&logoColor=white)](https://yourportfolio.com)
-
-Let's iterate through stars and loops, forging the cosmos with our code mastery! 🌠🌟🚀
-
-![Animated Coding Odyssey]([[https://yourimageurl.com](https://img.freepik.com/premium-photo/cartoon-man-working-computer_912214-932.jpg?w=826)](https://storyset.com/illustration/code-typing/bro/animate?share=69333))
-
----
-
-*P.S. Dive into my constellation of repositories below, sprinkle stardust by starring resonant projects. For synergistic coding unions and cosmic discussions, reach out. The universe eagerly awaits our commands!* 🌌🪐🔮
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tajkhan-dev&" alt="tajkhan-dev" /></p>
