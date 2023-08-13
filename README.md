@@ -4,7 +4,7 @@ Greetings, cosmic explorers! 🌠 I am [Your Name], an *Astroarchitect of the Di
 
 ## 🌌 Unveiling My Celestial Toolkit
 
-class AboutMe {
+```class AboutMe {
   private name: string;
   private role: string;
   private passions: string[];
@@ -47,6 +47,7 @@ const myAboutMe = new AboutMe(
 );
 
 console.log(myAboutMe.introduceSelf());
+ ```
 
 
 🌈 What I'm Currently Creating
