@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Taj ul islam Khan</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/tajkhan-dev/tajkhan-dev/main/Dark Blue Futuristic Technology Linkedin Banner.png"> </div>
 <h3 align="center">A passionate JAM stack developer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/odQ5A4pdaDU8E/200.webp?cid=ecf05e47u1ijyefmnnzw9wcalwe09un7ok7lze04wky0resx&ep=v1_gifs_search&rid=200.webp&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tajkhan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tajkhan-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tajkhan-dev&label=Profile%20views&color=ff00ff&style=flat" alt="tajkhan-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajkhan-dev" alt="tajkhan-dev" /></a> </p>
+
 
 - 🌱 I’m currently learning **web 3.0 , metaverse**
 
@@ -14,7 +15,7 @@
 
 - 💬 Ask me about **JAM stack,Next.js,serverless architecture**
 
-- 📫 How to reach me **tajkhan.dev@gmail.com**
+- 📫 reach me at **tajkhan.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
