@@ -11,15 +11,15 @@
 
 - 👨‍💻 Portfolio [https://tajkhan.vercel.app](https://tajkhan.vercel.app)
 
-- 📝 I regularly write articles on [Web 3 metaverse AI](Web 3 metaverse AI)
+- 📝 I regularly write articles on **Web 3 metaverse AI**
 
-- 💬 Ask me about **JAM stack,Next.js,serverless architecture**
+- 💬 Ask me about **JAM stack,Next.js, serverless architecture**
 
 - 📫 reach me at **tajkhan.dev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" >Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad taj ul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad taj ul islam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tajkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad taj ul islam" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad taj ul islam khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad taj ul islam khan" height="30" width="40" /></a>
 <a href="https://instagram.com/tajkhan_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tajkhan_dev" height="30" width="40" /></a>
 </p>
