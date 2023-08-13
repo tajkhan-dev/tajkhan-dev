@@ -40,13 +40,12 @@ const myCosmicToolkit = new CosmicToolkit();
 const cosmicSkills = myCosmicToolkit.cosmicSkills;
 ```
 
-## 🚀 Embarking on a Galactic Quest
-
-- 🌟 Crafting **awe-inspiring** websites that revolutionize user interfaces.
-- 🎨 Weaving the fabric of reality into **mesmerizing UI nebulae**.
-- 🌌 Channeling cosmic energies through **GraphQL** for data transcendence.
-- ⚡️ Harnessing supernova-level performance for **stellar web velocity**.
-- 🌠 Conjuring **serverless** marvels with the formidable **Jamstack**.
+🌈 What I'm Currently Creating
+🚀 Crafting lightning-fast websites that leave users in awe.
+🎨 Designing pixel-perfect UIs that blend aesthetics with functionality.
+📚 Exploring the realms of GraphQL for efficient data handling.
+⚡️ Optimizing web performance for that sweet Lighthouse score.
+🌍 Building serverless web applications with the power of Jamstack.
 
 ## ✨ Constellations in My Developer Galaxy
 
@@ -72,7 +71,7 @@ Ready to embark on this grand cosmic odyssey? Let's traverse constellations, ben
 
 Let's iterate through stars and loops, forging the cosmos with our code mastery! 🌠🌟🚀
 
-![Animated Coding Odyssey]([https://yourimageurl.com](https://img.freepik.com/premium-photo/cartoon-man-working-computer_912214-932.jpg?w=826))
+![Animated Coding Odyssey]([[https://yourimageurl.com](https://img.freepik.com/premium-photo/cartoon-man-working-computer_912214-932.jpg?w=826)](https://storyset.com/illustration/code-typing/bro/animate?share=69333))
 
 ---
 
