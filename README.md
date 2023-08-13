@@ -4,7 +4,8 @@ Greetings, cosmic explorers! 🌠 I am [Your Name], an *Astroarchitect of the Di
 
 ## 🌌 Unveiling My Celestial Toolkit
 
-```class AboutMe {
+``` Object.me
+class AboutMe {
   private name: string;
   private role: string;
   private passions: string[];
