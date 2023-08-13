@@ -72,7 +72,7 @@ Ready to embark on this grand cosmic odyssey? Let's traverse constellations, ben
 
 Let's iterate through stars and loops, forging the cosmos with our code mastery! 🌠🌟🚀
 
-![Animated Coding Odyssey](https://yourimageurl.com)
+![Animated Coding Odyssey]([https://yourimageurl.com](https://img.freepik.com/premium-photo/cartoon-man-working-computer_912214-932.jpg?w=826))
 
 ---
 
