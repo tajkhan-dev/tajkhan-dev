@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Taj ul islam Khan</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/tajkhan-dev/tajkhan-dev/main/Dark Blue Futuristic Technology Linkedin Banner.png"> </div>
+<!-- <div align="center"> <img src="https://raw.githubusercontent.com/tajkhan-dev/tajkhan-dev/main/Dark Blue Futuristic Technology Linkedin Banner.png"> </div> -->
 <h3 align="center">A passionate JAM stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/odQ5A4pdaDU8E/200.webp?cid=ecf05e47u1ijyefmnnzw9wcalwe09un7ok7lze04wky0resx&ep=v1_gifs_search&rid=200.webp&ct=g">
 
