@@ -12,12 +12,12 @@ import { Button } from "./ui/button";
 const Hero = () => {
   return (
     <>
-      <div className='flex justify-evenly'>
+      <div className='h-screen flex justify-evenly'>
         <motion.div
           className='mt-40 max-w-[500px]'
           initial='hidden'
-          animate='show'
-          viewport={{ once: true }}
+          whileInView='show'
+         
           variants={{
             hidden: {},
             show: {
@@ -47,9 +47,9 @@ const Hero = () => {
           <Button className='mt-6 ml-4 shadow-lg' asChild>
             <motion.button variants={FADE_UP_ANIMATION_VARIANTS}>
              Contact me !!
-            </motion.button>
+             </motion.button>
           </Button>
-          <motion.div className='flex gap-4 mt-6 items-center'>
+          <motion.div variants={FADE_UP_ANIMATION_VARIANTS} className='flex gap-4 mt-6 items-center'>
        
               <svg
                 xmlns='http://www.w3.org/2000/svg'
@@ -69,7 +69,7 @@ const Hero = () => {
               </svg>
           
      
-              <svg
+               <svg
                 xmlns='http://www.w3.org/2000/svg'
                 width='36'
                 height='36'
@@ -90,7 +90,7 @@ const Hero = () => {
         </motion.div>
         <motion.div
           className='mt-9'
-          variants={FADE_DOWN_ANIMATION_VARIANTS}
+          variants={FADE_UP_ANIMATION_VARIANTS}
           initial='hidden'
           whileInView={"show"}
         >

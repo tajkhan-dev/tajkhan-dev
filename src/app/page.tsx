@@ -1,4 +1,4 @@
-import { About, Hero } from "@/components/Components"
+import { About, Hero, Skills } from "@/components/Components"
 import React from "react"
 
 
@@ -8,6 +8,7 @@ import React from "react"
 <>
  <Hero />
  <About />
+ <Skills />
 </>
   )
 }
