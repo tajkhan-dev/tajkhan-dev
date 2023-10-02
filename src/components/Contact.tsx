@@ -8,7 +8,7 @@ import Link from "next/link";
 const Contact = () => {
   return (
     <>
-      <div className='h-screen flex justify-around '>
+      <div className='h-screen mt-10 flex justify-around '>
         <Image
           className=''
           src={"/Social media-bro.png"}

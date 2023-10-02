@@ -19,11 +19,9 @@ import Image from "next/image";
 const Skills = () => {
   return (
     <>
-      <motion.div
-        variants={FADE_DOWN_ANIMATION_VARIANTS}
-        initial='hidden'
-        whileInView={"show"}
-        className='h-screen'
+      <div
+       
+        className='h-screen mt-10'
       >
         <motion.h1
           variants={FADE_UP_ANIMATION_VARIANTS}
@@ -31,9 +29,12 @@ const Skills = () => {
         >
           Tech-Stack
         </motion.h1>
-		<motion.div variants={FADE_UP_ANIMATION_VARIANTS} className="flex justify-around">
-
-        <Card className='mx-auto max-w-[600px]'>
+		<div   className="mt-10 flex justify-around">
+<motion.div variants={FADE_UP_ANIMATION_VARIANTS}
+        initial='hidden'
+        whileInView={"show"}>
+  
+   <Card className='mx-auto max-w-[600px] bg-background'>
           <CardHeader className='flex gap-3'>
             {/* <Image
           alt="nextui logo"
@@ -666,13 +667,14 @@ const Skills = () => {
         </Link> */}
           </CardFooter>
         </Card>
-        <motion.div>
+  </motion.div>        
+       
 
           <Image className="transfrom -scale-x-100" src="/Coding-bro.png" width={600} height={600} alt="" />
-        </motion.div>
+      
 
-		</motion.div>
-      </motion.div>
+		</div>
+      </div>
     </>
   );
 };
